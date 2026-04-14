@@ -1,21 +1,23 @@
-# Debt Buyer Rights -- What Junk Debt Buyers Can Do [2026] -- Debtbuyerrights
+# Debt Buyer Rights - What Junk Debt Buyers Can Do [2026] - Debtbuyerrights
 > What rights do debt buyers have? Learn FDCPA protections, how to challenge portfolio debt, and when to fight back. 2026 guide.
 
 ## About
 debtbuyerrights.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Arbitration Clauses and Debt Buyers -- Using Them Strategically -- Debtbuyerrights: https://debtbuyerrights.org/arbitration-clauses.html
-- Challenging Debt Ownership -- Making Them Prove It -- Debtbuyerrights: https://debtbuyerrights.org/challenging-debt-ownership.html
-- FDCPA Protections Against Debt Buyers -- Your Federal Rights -- Debtbuyerrights: https://debtbuyerrights.org/fdcpa-protections.html
-- Debt Buyer Rights -- What Junk Debt Buyers Can Do [2026] -- Debtbuyerrights: https://debtbuyerrights.org/
-- Proof of Debt Requirements -- What Debt Buyers Must Show -- Debtbuyerrights: https://debtbuyerrights.org/proof-of-debt.html
-- Settlement Strategies for Debt Buyer Claims -- Getting the Best Deal -- Debtbuyerrights: https://debtbuyerrights.org/settlement-strategies.html
-- Statute of Limitations Defense -- Defeating Old Debt Claims -- Debtbuyerrights: https://debtbuyerrights.org/sol-defense.html
-- State Debt Buyer Licensing -- Requirements and Consequences -- Debtbuyerrights: https://debtbuyerrights.org/state-licensing.html
-- What Is a Debt Buyer? -- How Your Debt Gets Sold -- Debtbuyerrights: https://debtbuyerrights.org/what-is-a-debt-buyer.html
-- When to Fight a Debt Buyer -- Knowing Your Leverage -- Debtbuyerrights: https://debtbuyerrights.org/when-to-fight.html
-- Your Rights When a Debt Buyer Files a Claim in Bankruptcy -- Complete Guide -- Debtbuyerrights: https://debtbuyerrights.org/know-your-rights.html
+- Arbitration Clauses and Debt Buyers - Using Them Strategically - Debtbuyerrights: https://debtbuyerrights.org/arbitration-clauses.html
+- Challenging Debt Ownership - Making Them Prove It - Debtbuyerrights: https://debtbuyerrights.org/challenging-debt-ownership.html
+- FDCPA Protections Against Debt Buyers - Your Federal Rights - Debtbuyerrights: https://debtbuyerrights.org/fdcpa-protections.html
+- Debt Buyer Rights - What Junk Debt Buyers Can Do [2026] - Debtbuyerrights: https://debtbuyerrights.org/
+- Your Rights When a Debt Buyer Files a Claim in Bankruptcy - Complete Guide - Debtbuyerrights: https://debtbuyerrights.org/know-your-rights.html
+- Proof of Debt Requirements - What Debt Buyers Must Show - Debtbuyerrights: https://debtbuyerrights.org/proof-of-debt.html
+- Settlement Strategies for Debt Buyer Claims - Getting the Best Deal - Debtbuyerrights: https://debtbuyerrights.org/settlement-strategies.html
+- How Debt Buyers Use Shell Companies in Bankruptcy Court [2026 Guide] - Debtbuyerrights: https://debtbuyerrights.org/shell-companies.html
+- Statute of Limitations Defense - Defeating Old Debt Claims - Debtbuyerrights: https://debtbuyerrights.org/sol-defense.html
+- State Debt Buyer Licensing - Requirements and Consequences - Debtbuyerrights: https://debtbuyerrights.org/state-licensing.html
+- What Is a Debt Buyer? - How Your Debt Gets Sold - Debtbuyerrights: https://debtbuyerrights.org/what-is-a-debt-buyer.html
+- When to Fight a Debt Buyer - Knowing Your Leverage - Debtbuyerrights: https://debtbuyerrights.org/when-to-fight.html
+- Privacy Policy: https://debtbuyerrights.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

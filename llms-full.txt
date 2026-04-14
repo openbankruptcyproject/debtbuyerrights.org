@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Arbitration Clauses and Debt Buyers -- Using Them Strategically -- Debtbuyerrights
+## Arbitration Clauses and Debt Buyers - Using Them Strategically - Debtbuyerrights
 Source: https://debtbuyerrights.org/arbitration-clauses.html
 
 Arbitration Clauses and Debt Buyers
@@ -65,10 +65,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -132,7 +132,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Challenging Debt Ownership -- Making Them Prove It -- Debtbuyerrights
+## Challenging Debt Ownership - Making Them Prove It - Debtbuyerrights
 Source: https://debtbuyerrights.org/challenging-debt-ownership.html
 
 Challenging Debt Ownership
@@ -165,7 +165,7 @@ You can dispute yourself by sending a verification request. For litigation, a co
 
 Do debt buyers often lack documentation?
 
-Yes. The FTC's 2013 study found buyers receive very limited documentation -- often just a spreadsheet. When challenged, many cannot produce original agreements or complete chain of assignments.
+Yes. The FTC's 2013 study found buyers receive very limited documentation - often just a spreadsheet. When challenged, many cannot produce original agreements or complete chain of assignments.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 Free Discharge Screener
@@ -191,10 +191,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -258,7 +258,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## FDCPA Protections Against Debt Buyers -- Your Federal Rights -- Debtbuyerrights
+## FDCPA Protections Against Debt Buyers - Your Federal Rights - Debtbuyerrights
 Source: https://debtbuyerrights.org/fdcpa-protections.html
 
 FDCPA Protections Against Debt Buyers
@@ -273,7 +273,7 @@ The FDCPA (15 U.S.C. 1692) applies to debt buyers. Every communication must comp
 
 Required Notices
 
-Within 5 days of first contact: written validation notice with amount, creditor name, 30-day dispute rights. Many debt buyers fail this -- a common violation.
+Within 5 days of first contact: written validation notice with amount, creditor name, 30-day dispute rights. Many debt buyers fail this - a common violation.
 
 Prohibited Conduct
 
@@ -317,10 +317,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -384,8 +384,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Debt Buyer Rights -- What Junk Debt Buyers Can Do [2026] -- Debtbuyerrights
+## Debt Buyer Rights - What Junk Debt Buyers Can Do [2026] - Debtbuyerrights
 Source: https://debtbuyerrights.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -403,7 +405,7 @@ Espanol
 
 What Is a Debt Buyer?
 
-A debt buyer is a company that purchases defaulted consumer debts from original creditors (banks, credit card companies, hospitals, utilities) for pennies on the dollar -- typically 2-10 cents per dollar of face value. They then attempt to collect the full balance from you. The debt buying industry is a multi-billion dollar business, with companies like Encore Capital Group, Portfolio Recovery Associates, and LVNV Funding purchasing millions of accounts.
+A debt buyer is a company that purchases defaulted consumer debts from original creditors (banks, credit card companies, hospitals, utilities) for pennies on the dollar - typically 2-10 cents per dollar of face value. They then attempt to collect the full balance from you. The debt buying industry is a multi-billion dollar business, with companies like Encore Capital Group, Portfolio Recovery Associates, and LVNV Funding purchasing millions of accounts.
 
 How the Debt Buying Industry Works
 
@@ -423,7 +425,7 @@ To win in court, the debt buyer must prove: 1. You are the right person. 2. The 
 
 How to Fight a Debt Buyer Lawsuit
 
-Step 1: File an answer by the deadline. Do not let them get a default judgment. Step 2: Deny everything -- make them prove every element. Step 3: Send discovery requests -- demand the original signed contract, complete account statements, and chain of title documentation. Step 4: If they cannot produce documents, move for summary judgment in your favor. Step 5: If the SOL has expired, assert it as an affirmative defense.
+Step 1: File an answer by the deadline. Do not let them get a default judgment. Step 2: Deny everything - make them prove every element. Step 3: Send discovery requests - demand the original signed contract, complete account statements, and chain of title documentation. Step 4: If they cannot produce documents, move for summary judgment in your favor. Step 5: If the SOL has expired, assert it as an affirmative defense.
 
 Many consumer protection attorneys take debt buyer defense cases on contingency or for a flat fee. If the debt buyer violated the FDCPA, you may have a counterclaim worth statutory damages and attorney fees.
 
@@ -441,23 +443,23 @@ Remember: the 7-year credit reporting clock runs from the original date of delin
 
 Explore All Topics
 
-What Is a Debt Buyer? -- How Your Debt Gets Sold
+What Is a Debt Buyer? - How Your Debt Gets Sold
 
-FDCPA Protections Against Debt Buyers -- Your Federal Rights
+FDCPA Protections Against Debt Buyers - Your Federal Rights
 
-Challenging Debt Ownership -- Making Them Prove It
+Challenging Debt Ownership - Making Them Prove It
 
-Proof of Debt Requirements -- What Debt Buyers Must Show
+Proof of Debt Requirements - What Debt Buyers Must Show
 
-State Debt Buyer Licensing -- Requirements and Consequences
+State Debt Buyer Licensing - Requirements and Consequences
 
-Statute of Limitations Defense -- Defeating Old Debt Claims
+Statute of Limitations Defense - Defeating Old Debt Claims
 
-Arbitration Clauses and Debt Buyers -- Using Them Strategically
+Arbitration Clauses and Debt Buyers - Using Them Strategically
 
-Settlement Strategies for Debt Buyer Claims -- Getting the Best Deal
+Settlement Strategies for Debt Buyer Claims - Getting the Best Deal
 
-When to Fight a Debt Buyer -- Knowing Your Leverage
+When to Fight a Debt Buyer - Knowing Your Leverage
 
 Frequently Asked Questions
 
@@ -475,7 +477,7 @@ Dispute directly with the three credit bureaus (Equifax, Experian, TransUnion) i
 
 What is a debt buyer?
 
-A debt buyer is a company that purchases defaulted debts from original creditors for pennies on the dollar -- typically 2 to 10 cents per dollar of face value. The debt buyer then attempts to collect the full amount from you. Major debt buyers include Encore Capital (Midland Credit), Portfolio Recovery Associates, and LVNV Funding.
+A debt buyer is a company that purchases defaulted debts from original creditors for pennies on the dollar - typically 2 to 10 cents per dollar of face value. The debt buyer then attempts to collect the full amount from you. Major debt buyers include Encore Capital (Midland Credit), Portfolio Recovery Associates, and LVNV Funding.
 
 Do I have to pay a debt buyer?
 
@@ -498,7 +500,7 @@ Debt Collection Lawsuit Defense
 
 How to Stop Wage Garnishment
 
-Sued for Debt -- Your Rights
+Sued for Debt - Your Rights
 
 462+ Court Documents Freed from PACER
 
@@ -515,10 +517,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -563,7 +565,7 @@ ceaseanddesistdebt.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -698,6 +700,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 debtbuyerrights.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -711,9 +714,249 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Proof of Debt Requirements -- What Debt Buyers Must Show -- Debtbuyerrights
+## Your Rights When a Debt Buyer Files a Claim in Bankruptcy - Complete Guide - Debtbuyerrights
+Source: https://debtbuyerrights.org/know-your-rights.html
+
+Your Rights When a Debt Buyer Files a Claim
+
+What you can challenge, how to object, and the protections the law gives you
+
+Home » Know Your Rights
+
+Debt Buyers vs. Original Creditors
+
+When a credit card company, medical provider, or other lender gives up on collecting a debt, they often sell it to a debt buyer - a company whose entire business model is purchasing defaulted debts for pennies on the dollar and then collecting the full face value.
+
+Major debt buyers include Midland Credit Management, Portfolio Recovery Associates (PRA), LVNV Funding, Encore Capital Group, and Cavalry SPV. These companies file millions of proofs of claim in bankruptcy cases every year.
+
+The critical difference: the original creditor had a direct relationship with you and has complete records. A debt buyer purchased a spreadsheet of account data - often with incomplete records, missing account agreements, and no proof of the original terms.
+
+Key fact: Debt portfolios are typically purchased for 4-7 cents on the dollar for credit card debt and 1-3 cents for medical debt. When a debt buyer files a $10,000 claim in your bankruptcy, they may have paid $400-$700 for it.
+
+The Assignment Chain - Who Actually Owns the Debt?
+
+Before a debt buyer can enforce a claim against you, they must prove they actually own it. The assignment chain is the documented trail showing how the debt moved from the original creditor to the current holder. This may involve multiple transfers:
+
+Original creditor sells to Debt Buyer A (first assignment)
+
+Debt Buyer A sells to Debt Buyer B (second assignment)
+
+Debt Buyer B files a proof of claim in your bankruptcy
+
+Each link in the chain requires a valid assignment document. If any link is missing or defective, the debt buyer cannot prove standing to collect.
+
+Common problem: Debt buyers frequently cannot produce complete assignment chains. Debts are sold in bulk portfolios containing thousands of accounts, and the assignment documents often reference the portfolio generically rather than your specific account. Challenge this.
+
+Proof of Claim Requirements - What They Must Provide
+
+Under Bankruptcy Rule 3001(c), a proof of claim filed by a debt buyer must include specific documentation:
+
+Name of the entity from whom the debt was acquired
+
+Date of the last transaction or last payment on the account
+
+Original account number (last 4 digits may be redacted)
+
+Charge-off date and amount
+
+Itemization of interest, fees, and charges accrued since the last statement
+
+For open-end credit: a copy of the credit agreement or last account statement
+
+Evidence of the assignment chain documenting transfer of ownership
+
+Under Bankruptcy Rule 3001(c)(2)(D), if the claim is based on an open-end credit agreement and the claimant does not have a copy, they must explain why and describe the efforts made to obtain it.
+
+Your leverage: A proof of claim that fails to include required documentation under Rule 3001(c) loses its presumption of validity. The burden then shifts - the debt buyer must affirmatively prove the claim is valid rather than you having to disprove it.
+
+How to Object to a Debt Buyer's Claim
+
+Step 1: Review Every Proof of Claim
+
+Check the claims register in your case (available on PACER or from your attorney). For each claim filed by a debt buyer, review:
+
+Is the amount correct? Does it match what you owed?
+
+Is the credit agreement attached? Is it yours?
+
+Is the assignment chain complete?
+
+Does the claim include the required itemization?
+
+Has the statute of limitations expired on the underlying debt?
+
+Step 2: File a Written Objection
+
+File your objection with the bankruptcy court before the claims objection deadline. Your objection should specifically identify:
+
+The claim number and claimant name
+
+Each deficiency (missing documentation, broken chain, wrong amount, stale debt)
+
+The legal basis for each objection (Rule 3001(c), state statute of limitations, etc.)
+
+A request that the claim be disallowed or reduced
+
+Step 3: Attend the Hearing
+
+The court will schedule a hearing on your objection. At the hearing:
+
+The burden of proof shifts to the debt buyer once you file a valid objection
+
+The debt buyer must produce evidence proving the claim
+
+Many debt buyers default - they do not show up or produce documentation
+
+If the debt buyer cannot meet their burden, the claim is disallowed
+
+Statute of Limitations on Debt
+
+Every state has a statute of limitations (SOL) on debt collection. Once the SOL expires, the debt is "time-barred" - it still exists but cannot be legally enforced through a lawsuit. Common statutes of limitations:
+
+Credit card debt: 3-6 years in most states (varies by state)
+
+Medical debt: 3-6 years in most states
+
+Written contracts: 4-10 years depending on state
+
+Oral agreements: 2-6 years depending on state
+
+The SOL clock typically starts from the date of last payment or last account activity. Check your state's specific statute at debtstatuteoflimitations.com.
+
+Midland Funding v. Johnson (2017) - What It Means for You
+
+Midland Funding, LLC v. Johnson, 581 U.S. 224 (2017), was a Supreme Court case addressing whether filing a proof of claim on time-barred debt in bankruptcy violates the FDCPA.
+
+The ruling: The Supreme Court held 5-3 that filing a proof of claim on stale debt in bankruptcy does NOT violate the FDCPA. The Court reasoned that bankruptcy has its own system for handling invalid claims (the claims objection process) and that the FDCPA was not designed to police the bankruptcy claims process.
+
+What this means for you:
+
+Debt buyers can file claims on old, expired debts without FDCPA liability
+
+YOU must actively object - if you do nothing, the claim may be allowed
+
+The burden is on you (or your attorney) to review claims and file objections
+
+This makes claim review one of the most important tasks in any bankruptcy case
+
+After Midland: debt buyers have even less incentive to self-police their claims. They can file on ancient debts knowing there is no FDCPA penalty. Your defense is the objection process - use it.
+
+FDCPA Protections That Still Apply
+
+While Midland limited FDCPA claims in the bankruptcy context, the FDCPA still protects you in many ways:
+
+Pre-filing collection: All FDCPA protections apply to collection activity before bankruptcy is filed
+
+Automatic stay violations: Collecting after your bankruptcy is filed violates both the automatic stay (11 U.S.C. 362) and may violate the FDCPA
+
+Misrepresentation: A debt buyer that misrepresents the amount owed, the identity of the creditor, or the character of the debt on a proof of claim may still face sanctions
+
+Post-discharge collection: Attempting to collect a discharged debt violates the discharge injunction (11 U.S.C. 524) and the FDCPA
+
+Why This Matters in Chapter 13
+
+In a Chapter 13 case, every dollar paid to a debt buyer on an invalid claim is a dollar NOT going to your legitimate creditors or back to you. If a debt buyer files a $5,000 claim based on stale debt you do not owe, and it goes unchallenged:
+
+Your Chapter 13 plan pays the debt buyer that $5,000 (or a percentage of it)
+
+Your plan may last longer than necessary to accommodate the extra debt
+
+Your legitimate creditors receive less because the pot is diluted
+
+You may pay higher total plan payments over the life of the plan
+
+Objecting to invalid claims is not just your right - it directly affects the cost and duration of your bankruptcy.
+
+Frequently Asked Questions
+
+Can a debt buyer file a claim on debt I do not owe?
+
+Yes, and they frequently do. Debt portfolios contain errors. You must review every claim and object to any that are incorrect, undocumented, or time-barred. If you do not object, the claim may be treated as valid.
+
+What is an assignment chain?
+
+The documented trail of ownership from the original creditor through each subsequent purchaser to the current debt buyer. Each transfer requires a valid assignment. Missing links are grounds for objection.
+
+Can I object to a debt buyer's claim myself?
+
+In theory, yes, but claims objections involve procedural rules and legal standards. Many bankruptcy attorneys handle claims objections as part of their representation. If yours does not, ask why.
+
+What happens if I object and the debt buyer does not respond?
+
+If the debt buyer fails to respond to your objection or appear at the hearing, the court will typically sustain your objection and disallow the claim. Many debt buyers default on objections because the cost of litigation exceeds what they paid for the debt.
+
+Does the FDCPA still protect me in bankruptcy after Midland v. Johnson?
+
+Midland only addressed proof of claim filings. The FDCPA still applies to pre-filing collection, automatic stay violations, misrepresentation, and post-discharge collection attempts.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+Related Guides Across the Network
+
+15 Red Flags of a Bankruptcy Mill
+
+When Your Lawyer Won't Call Back
+
+Means Test Vocabulary
+
+Student Loan Bankruptcy Terms
+
+Debt Statute of Limitations
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code), the Fair Debt Collection Practices Act (15 U.S.C. 1692), Federal Rules of Bankruptcy Procedure, and Midland Funding, LLC v. Johnson, 581 U.S. 224 (2017). This is educational content, not legal advice.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt buyer claims in bankruptcy:
+
+FRBP Rule 3001 - Proof of Claim
+Cornell LII
+
+Fair Debt Collection Practices Act
+Cornell LII - full text
+
+CFPB: Debt Collection Tools
+Complaints and sample letters
+
+Midland Funding v. Johnson (2017)
+Full Supreme Court opinion
+
+National Consumer Law Center
+Consumer protection resources
+
+Find Free Legal Aid
+LSC legal aid finder
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Means Test Brunner Test Bankruptcy Mill
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Proof of Debt Requirements - What Debt Buyers Must Show - Debtbuyerrights
 Source: https://debtbuyerrights.org/proof-of-debt.html
 
 Proof of Debt Requirements
@@ -772,10 +1015,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -839,7 +1082,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Settlement Strategies for Debt Buyer Claims -- Getting the Best Deal -- Debtbuyerrights
+## Settlement Strategies for Debt Buyer Claims - Getting the Best Deal - Debtbuyerrights
 Source: https://debtbuyerrights.org/settlement-strategies.html
 
 Settlement Strategies for Debt Buyer Claims
@@ -898,10 +1141,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -965,7 +1208,196 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Statute of Limitations Defense -- Defeating Old Debt Claims -- Debtbuyerrights
+## How Debt Buyers Use Shell Companies in Bankruptcy Court [2026 Guide] - Debtbuyerrights
+Source: https://debtbuyerrights.org/shell-companies.html
+
+Skip to main content
+
+debtbuyerrights.org
+☰
+
+Home
+Shell Companies
+Challenge Ownership
+FDCPA Protections
+Proof of Debt
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+How Debt Buyers Use Shell Companies in Bankruptcy Court
+
+The same debt buyer may operate under dozens of different names. Here is how claim transfers work, why it matters, and how to fight back.
+
+Home›Shell Companies
+
+What Is a Debt Buyer?
+
+A debt buyer is a company that purchases defaulted debts - credit cards, medical bills, auto loans, personal loans - from original creditors for a fraction of the face value. They then attempt to collect the full amount, often through bankruptcy proofs of claim.
+
+The debt buying industry is enormous. Billions of dollars in consumer debt changes hands every year. The original creditor sells the debt, washes its hands, and a new entity steps in to collect from you.
+
+Key fact: Debt buyers typically pay 2-10 cents on the dollar for defaulted debt portfolios. If they collect even 20% of face value, they make a significant profit. This economic incentive drives aggressive filing of bankruptcy claims - even when documentation is thin.
+
+How Claim Transfers Work
+
+When your original creditor sells your debt to a buyer, the buyer acquires the right to file a proof of claim in your bankruptcy case. This is called a claim transfer. The legal framework is governed by:
+
+Bankruptcy Rule 3001(e) - Requires that transfers of claims after the proof of claim is filed be evidenced by a statement of the transferor or transferee
+
+11 U.S.C. Section 502 - Governs allowance of claims; a claim can be objected to on various grounds
+
+Bankruptcy Rule 3007 - Provides the procedure for objecting to claims
+
+The Chain of Title Problem
+
+For a debt buyer's claim to be valid, there must be an unbroken chain of ownership from the original creditor to the current claimant. In practice, debts often pass through multiple hands:
+
+Original creditor (e.g., a bank or credit card company)
+
+First debt buyer (purchases a portfolio of thousands of accounts)
+
+Second debt buyer (purchases a sub-portfolio)
+
+Special purpose vehicle or trust (the entity that actually files the claim)
+
+At each transfer, documentation can be lost, amounts can change, and the connection between your specific account and the filing entity grows thinner.
+
+The Shell Company Problem
+
+Some of the largest debt buyers operate through extensive networks of subsidiary entities, trusts, and special purpose vehicles. A single parent company may file bankruptcy claims under dozens of different names.
+
+Real data: In one analysis of publicly available bankruptcy court filings, a single debt buying operation was found to use over 30 different entity names across different federal courts. Each entity filed claims independently, making the full scope of the operation difficult to detect without cross-district analysis.
+
+Why This Matters
+
+Obscures the true claimant. Debtors, trustees, and judges may not realize they are dealing with the same operation behind multiple names
+
+Makes pattern detection harder. If one entity's claims are challenged in one court, the same operation continues unimpeded under different names elsewhere
+
+Complicates objections. Objecting to a claim from "XYZ Trust Series 2024-A" requires understanding the corporate structure behind it
+
+Exploits information gaps. Bankruptcy courts are organized by district. There is no automatic cross-district visibility into a claimant's activity nationwide
+
+How to Identify Shell Company Claims
+
+Look for these indicators when reviewing proofs of claim in your case:
+
+Generic entity names - Names like "Receivables Trust Series 2023-1" or "Consumer Debt Recovery LLC" that do not correspond to a recognizable creditor
+
+Same law firm, different claimants - If the same law firm files claims for multiple entities with similar names, they may all be the same operation
+
+Same mailing address - Different entity names sharing a physical address
+
+Missing documentation - Claims filed with only a data printout and no original account agreement, statements, or chain of title documentation
+
+Round dollar amounts - Claims for exactly $5,000.00 or $10,000.00 may have been reconstructed from portfolio data rather than actual account records
+
+Tip: Search the SEC's EDGAR database for the parent company. Publicly traded debt buyers must disclose their subsidiaries and special purpose vehicles in their annual reports (10-K filings).
+
+How to Object to a Debt Buyer's Claim
+
+Under Bankruptcy Rule 3007, any party in interest - including the debtor - can object to a proof of claim. Here is how:
+
+Review the proof of claim carefully. Check whether it includes:
+
+The original account agreement
+
+A chain of title showing each transfer from the original creditor
+
+An itemized accounting of the amount claimed
+
+Proper documentation under Bankruptcy Rule 3001(c)
+
+Draft a written objection. State the specific grounds: lack of documentation, broken chain of title, incorrect amount, expired statute of limitations, or that the claimant cannot prove standing
+
+File the objection with the court and serve it on the claimant
+
+Attend the hearing. The burden shifts to the claimant to prove the claim is valid once a proper objection is filed
+
+Common Grounds for Objection
+
+GroundWhat It Means
+
+Lack of standingThe entity cannot prove it owns the debt
+
+Broken chain of titleMissing or incomplete transfer documentation
+
+Insufficient documentationNo original agreement, no account statements
+
+Incorrect amountThe claimed amount does not match actual records
+
+Statute of limitationsThe debt is too old to be legally enforceable
+
+Duplicate claimThe same debt filed by both original creditor and buyer
+
+Regulatory Oversight
+
+Several federal agencies have authority over debt buyer practices:
+
+Consumer Financial Protection Bureau (CFPB) - Accepts complaints about debt buyers and collectors. The CFPB has brought enforcement actions against major debt buyers for filing claims without proper documentation.
+
+Securities and Exchange Commission (SEC) - When debt buyers are publicly traded or operate through securities (asset-backed trusts), the SEC has regulatory authority. The SEC requires disclosure of subsidiaries and investment vehicles.
+
+Federal Trade Commission (FTC) - Has enforcement authority over unfair and deceptive practices in debt collection, including in bankruptcy.
+
+U.S. Trustee Program - The DOJ's U.S. Trustee Program monitors bankruptcy filings for abuse, including fraudulent claims.
+
+How to File a CFPB Complaint
+
+Go to consumerfinance.gov/complaint
+
+Select "Debt collection" as the product
+
+Describe the issue: the entity name, the amount claimed, and the specific problem (lack of documentation, inability to verify the debt, etc.)
+
+Attach any supporting documents
+
+The CFPB will forward the complaint to the company and track the response
+
+Why this matters: The CFPB tracks complaint patterns. When enough consumers report problems with the same company or its subsidiaries, it can trigger an investigation. Your complaint contributes to the data even if you do not see an immediate result.
+
+Related Topics
+
+Challenging Debt Ownership
+Automatic Stay Guide
+Attorney Malpractice Guide
+Pro Se Bankruptcy Guide
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project - free bankruptcy information for everyone.
+
+automaticstay.org
+meanstest.org
+bankruptcymalpractice.org
+523a.org
+727a8.com
+prosedebtors.org
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Statute of Limitations Defense - Defeating Old Debt Claims - Debtbuyerrights
 Source: https://debtbuyerrights.org/sol-defense.html
 
 Statute of Limitations Defense
@@ -1024,10 +1456,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1091,7 +1523,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## State Debt Buyer Licensing -- Requirements and Consequences -- Debtbuyerrights
+## State Debt Buyer Licensing - Requirements and Consequences - Debtbuyerrights
 Source: https://debtbuyerrights.org/state-licensing.html
 
 State Debt Buyer Licensing
@@ -1150,10 +1582,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1217,7 +1649,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## What Is a Debt Buyer? -- How Your Debt Gets Sold -- Debtbuyerrights
+## What Is a Debt Buyer? - How Your Debt Gets Sold - Debtbuyerrights
 Source: https://debtbuyerrights.org/what-is-a-debt-buyer.html
 
 What Is a Debt Buyer?
@@ -1232,7 +1664,7 @@ Debt buyers purchase defaulted debts at 2-10 cents on the dollar. The original c
 
 How the Sale Works
 
-Debts are sold in portfolios of thousands of accounts. The buyer receives a spreadsheet -- often WITHOUT the original credit agreement, statements, or proof the debt is valid. This lack of documentation is a key vulnerability.
+Debts are sold in portfolios of thousands of accounts. The buyer receives a spreadsheet - often WITHOUT the original credit agreement, statements, or proof the debt is valid. This lack of documentation is a key vulnerability.
 
 Chain of Title Issues
 
@@ -1276,10 +1708,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1343,7 +1775,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## When to Fight a Debt Buyer -- Knowing Your Leverage -- Debtbuyerrights
+## When to Fight a Debt Buyer - Knowing Your Leverage - Debtbuyerrights
 Source: https://debtbuyerrights.org/when-to-fight.html
 
 When to Fight a Debt Buyer
@@ -1402,10 +1834,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1469,238 +1901,72 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Your Rights When a Debt Buyer Files a Claim in Bankruptcy -- Complete Guide -- Debtbuyerrights
-Source: https://debtbuyerrights.org/know-your-rights.html
+## Privacy Policy - debtbuyerrights.org
+Source: https://debtbuyerrights.org/privacy.html
 
-Your Rights When a Debt Buyer Files a Claim
+debtbuyerrights.org
 
-What you can challenge, how to object, and the protections the law gives you
+Home
+Privacy
 
-Home » Know Your Rights
+Privacy Policy
 
-Debt Buyers vs. Original Creditors
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-When a credit card company, medical provider, or other lender gives up on collecting a debt, they often sell it to a debt buyer -- a company whose entire business model is purchasing defaulted debts for pennies on the dollar and then collecting the full face value.
+Data We Collect
 
-Major debt buyers include Midland Credit Management, Portfolio Recovery Associates (PRA), LVNV Funding, Encore Capital Group, and Cavalry SPV. These companies file millions of proofs of claim in bankruptcy cases every year.
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-The critical difference: the original creditor had a direct relationship with you and has complete records. A debt buyer purchased a spreadsheet of account data -- often with incomplete records, missing account agreements, and no proof of the original terms.
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Key fact: Debt portfolios are typically purchased for 4-7 cents on the dollar for credit card debt and 1-3 cents for medical debt. When a debt buyer files a $10,000 claim in your bankruptcy, they may have paid $400-$700 for it.
+What We Don't Do
 
-The Assignment Chain -- Who Actually Owns the Debt?
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-Before a debt buyer can enforce a claim against you, they must prove they actually own it. The assignment chain is the documented trail showing how the debt moved from the original creditor to the current holder. This may involve multiple transfers:
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Original creditor sells to Debt Buyer A (first assignment)
+Cookies
 
-Debt Buyer A sells to Debt Buyer B (second assignment)
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Debt Buyer B files a proof of claim in your bankruptcy
+Third-Party Services
 
-Each link in the chain requires a valid assignment document. If any link is missing or defective, the debt buyer cannot prove standing to collect.
+Google Analytics (GA4) - aggregate traffic measurement
 
-Common problem: Debt buyers frequently cannot produce complete assignment chains. Debts are sold in bulk portfolios containing thousands of accounts, and the assignment documents often reference the portfolio generically rather than your specific account. Challenge this.
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Proof of Claim Requirements -- What They Must Provide
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Under Bankruptcy Rule 3001(c), a proof of claim filed by a debt buyer must include specific documentation:
+GitHub Pages - hosting
 
-Name of the entity from whom the debt was acquired
+Contact Forms & Email
 
-Date of the last transaction or last payment on the account
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Original account number (last 4 digits may be redacted)
+Children's Privacy
 
-Charge-off date and amount
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-Itemization of interest, fees, and charges accrued since the last statement
+Data Retention
 
-For open-end credit: a copy of the credit agreement or last account statement
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Evidence of the assignment chain documenting transfer of ownership
+Your Rights
 
-Under Bankruptcy Rule 3001(c)(2)(D), if the claim is based on an open-end credit agreement and the claimant does not have a copy, they must explain why and describe the efforts made to obtain it.
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Your leverage: A proof of claim that fails to include required documentation under Rule 3001(c) loses its presumption of validity. The burden then shifts -- the debt buyer must affirmatively prove the claim is valid rather than you having to disprove it.
+Network Policy
 
-How to Object to a Debt Buyer's Claim
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-Step 1: Review Every Proof of Claim
+Changes
 
-Check the claims register in your case (available on PACER or from your attorney). For each claim filed by a debt buyer, review:
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-Is the amount correct? Does it match what you owed?
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Is the credit agreement attached? Is it yours?
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Is the assignment chain complete?
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Does the claim include the required itemization?
-
-Has the statute of limitations expired on the underlying debt?
-
-Step 2: File a Written Objection
-
-File your objection with the bankruptcy court before the claims objection deadline. Your objection should specifically identify:
-
-The claim number and claimant name
-
-Each deficiency (missing documentation, broken chain, wrong amount, stale debt)
-
-The legal basis for each objection (Rule 3001(c), state statute of limitations, etc.)
-
-A request that the claim be disallowed or reduced
-
-Step 3: Attend the Hearing
-
-The court will schedule a hearing on your objection. At the hearing:
-
-The burden of proof shifts to the debt buyer once you file a valid objection
-
-The debt buyer must produce evidence proving the claim
-
-Many debt buyers default -- they do not show up or produce documentation
-
-If the debt buyer cannot meet their burden, the claim is disallowed
-
-Statute of Limitations on Debt
-
-Every state has a statute of limitations (SOL) on debt collection. Once the SOL expires, the debt is "time-barred" -- it still exists but cannot be legally enforced through a lawsuit. Common statutes of limitations:
-
-Credit card debt: 3-6 years in most states (varies by state)
-
-Medical debt: 3-6 years in most states
-
-Written contracts: 4-10 years depending on state
-
-Oral agreements: 2-6 years depending on state
-
-The SOL clock typically starts from the date of last payment or last account activity. Check your state's specific statute at debtstatuteoflimitations.com.
-
-Midland Funding v. Johnson (2017) -- What It Means for You
-
-Midland Funding, LLC v. Johnson, 581 U.S. 224 (2017), was a Supreme Court case addressing whether filing a proof of claim on time-barred debt in bankruptcy violates the FDCPA.
-
-The ruling: The Supreme Court held 5-3 that filing a proof of claim on stale debt in bankruptcy does NOT violate the FDCPA. The Court reasoned that bankruptcy has its own system for handling invalid claims (the claims objection process) and that the FDCPA was not designed to police the bankruptcy claims process.
-
-What this means for you:
-
-Debt buyers can file claims on old, expired debts without FDCPA liability
-
-YOU must actively object -- if you do nothing, the claim may be allowed
-
-The burden is on you (or your attorney) to review claims and file objections
-
-This makes claim review one of the most important tasks in any bankruptcy case
-
-After Midland: debt buyers have even less incentive to self-police their claims. They can file on ancient debts knowing there is no FDCPA penalty. Your defense is the objection process -- use it.
-
-FDCPA Protections That Still Apply
-
-While Midland limited FDCPA claims in the bankruptcy context, the FDCPA still protects you in many ways:
-
-Pre-filing collection: All FDCPA protections apply to collection activity before bankruptcy is filed
-
-Automatic stay violations: Collecting after your bankruptcy is filed violates both the automatic stay (11 U.S.C. 362) and may violate the FDCPA
-
-Misrepresentation: A debt buyer that misrepresents the amount owed, the identity of the creditor, or the character of the debt on a proof of claim may still face sanctions
-
-Post-discharge collection: Attempting to collect a discharged debt violates the discharge injunction (11 U.S.C. 524) and the FDCPA
-
-Why This Matters in Chapter 13
-
-In a Chapter 13 case, every dollar paid to a debt buyer on an invalid claim is a dollar NOT going to your legitimate creditors or back to you. If a debt buyer files a $5,000 claim based on stale debt you do not owe, and it goes unchallenged:
-
-Your Chapter 13 plan pays the debt buyer that $5,000 (or a percentage of it)
-
-Your plan may last longer than necessary to accommodate the extra debt
-
-Your legitimate creditors receive less because the pot is diluted
-
-You may pay higher total plan payments over the life of the plan
-
-Objecting to invalid claims is not just your right -- it directly affects the cost and duration of your bankruptcy.
-
-Frequently Asked Questions
-
-Can a debt buyer file a claim on debt I do not owe?
-
-Yes, and they frequently do. Debt portfolios contain errors. You must review every claim and object to any that are incorrect, undocumented, or time-barred. If you do not object, the claim may be treated as valid.
-
-What is an assignment chain?
-
-The documented trail of ownership from the original creditor through each subsequent purchaser to the current debt buyer. Each transfer requires a valid assignment. Missing links are grounds for objection.
-
-Can I object to a debt buyer's claim myself?
-
-In theory, yes, but claims objections involve procedural rules and legal standards. Many bankruptcy attorneys handle claims objections as part of their representation. If yours does not, ask why.
-
-What happens if I object and the debt buyer does not respond?
-
-If the debt buyer fails to respond to your objection or appear at the hearing, the court will typically sustain your objection and disallow the claim. Many debt buyers default on objections because the cost of litigation exceeds what they paid for the debt.
-
-Does the FDCPA still protect me in bankruptcy after Midland v. Johnson?
-
-Midland only addressed proof of claim filings. The FDCPA still applies to pre-filing collection, automatic stay violations, misrepresentation, and post-discharge collection attempts.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-Related Guides Across the Network
-
-15 Red Flags of a Bankruptcy Mill
-
-When Your Lawyer Won't Call Back
-
-Means Test Vocabulary
-
-Student Loan Bankruptcy Terms
-
-Debt Statute of Limitations
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code), the Fair Debt Collection Practices Act (15 U.S.C. 1692), Federal Rules of Bankruptcy Procedure, and Midland Funding, LLC v. Johnson, 581 U.S. 224 (2017). This is educational content, not legal advice.
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on debt buyer claims in bankruptcy:
-
-FRBP Rule 3001 -- Proof of Claim
-Cornell LII
-
-Fair Debt Collection Practices Act
-Cornell LII -- full text
-
-CFPB: Debt Collection Tools
-Complaints and sample letters
-
-Midland Funding v. Johnson (2017)
-Full Supreme Court opinion
-
-National Consumer Law Center
-Consumer protection resources
-
-Find Free Legal Aid
-LSC legal aid finder
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Means Test Brunner Test Bankruptcy Mill
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
+No ads. No affiliate links. No data sold. Supported by donations.
