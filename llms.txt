@@ -1,5 +1,5 @@
-# Debt Buyer Rights - What Junk Debt Buyers Can Do [2026] - Debtbuyerrights
-> Last updated: 2026-05-01
+# Debt Buyer Rights - What Junk Debt Buyers Can Do [2026]
+> Last updated: 2026-09-25
 
 > What rights do debt buyers have? Learn FDCPA protections, how to challenge portfolio debt, and when to fight back. 2026 guide.
 
@@ -7,19 +7,72 @@
 debtbuyerrights.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Arbitration Clauses and Debt Buyers - Using Them Strategically - Debtbuyerrights: https://debtbuyerrights.org/arbitration-clauses.html
-- Challenging Debt Ownership - Making Them Prove It - Debtbuyerrights: https://debtbuyerrights.org/challenging-debt-ownership.html
-- FDCPA Protections Against Debt Buyers - Your Federal Rights - Debtbuyerrights: https://debtbuyerrights.org/fdcpa-protections.html
-- Debt Buyer Rights - What Junk Debt Buyers Can Do [2026] - Debtbuyerrights: https://debtbuyerrights.org/
+- Arbitration Clauses and Debt Buyers [2026]: AAA Rules, JAMS Procedures, and Strategic Use: https://debtbuyerrights.org/arbitration-clauses.html
+- Challenging Debt Ownership [2026]: Chain-of-Title Proof and 15 USC 1692g Validation: https://debtbuyerrights.org/challenging-debt-ownership.html
+- FDCPA Protections Against Debt Buyers [2026]: 15 USC 1692e Misrepresentation and 1692f Unfair Practices: https://debtbuyerrights.org/fdcpa-protections.html
+- Debt Buyer Rights - What Junk Debt Buyers Can Do: https://debtbuyerrights.org/
 - Your Rights When a Debt Buyer Files a Claim in Bankruptcy - Complete Guide - Debtbuyerrights: https://debtbuyerrights.org/know-your-rights.html
-- Proof of Debt Requirements - What Debt Buyers Must Show - Debtbuyerrights: https://debtbuyerrights.org/proof-of-debt.html
-- Settlement Strategies for Debt Buyer Claims - Getting the Best Deal - Debtbuyerrights: https://debtbuyerrights.org/settlement-strategies.html
-- How Debt Buyers Use Shell Companies in Bankruptcy Court [2026 Guide] - Debtbuyerrights: https://debtbuyerrights.org/shell-companies.html
-- Statute of Limitations Defense - Defeating Old Debt Claims - Debtbuyerrights: https://debtbuyerrights.org/sol-defense.html
-- State Debt Buyer Licensing - Requirements and Consequences - Debtbuyerrights: https://debtbuyerrights.org/state-licensing.html
-- What Is a Debt Buyer? - How Your Debt Gets Sold - Debtbuyerrights: https://debtbuyerrights.org/what-is-a-debt-buyer.html
-- When to Fight a Debt Buyer - Knowing Your Leverage - Debtbuyerrights: https://debtbuyerrights.org/when-to-fight.html
+- Proof of Debt Requirements [2026]: Account Statements, Cardmember Agreement, and Bill of Sale: https://debtbuyerrights.org/proof-of-debt.html
+- Debt Buyer Settlement Strategies [2026]: 20-40% of Face Value and 1099-C Tax Implications: https://debtbuyerrights.org/settlement-strategies.html
+- How Debt Buyers Use Shell Companies in Bankruptcy Court: https://debtbuyerrights.org/shell-companies.html
+- Statute of Limitations Defense [2026]: State SOL Periods (3-10 Years) and Revival by Payment: https://debtbuyerrights.org/sol-defense.html
+- State Debt Buyer Licensing [2026]: Registration Requirements and Consequences of Unlicensed Collection: https://debtbuyerrights.org/state-licensing.html
+- What Is a Debt Buyer? [2026]: How Charged-Off Debt Is Sold at 4-7 Cents on the Dollar: https://debtbuyerrights.org/what-is-a-debt-buyer.html
+- When to Fight a Debt Buyer [2026]: Litigation Leverage Indicators and SOL Math: https://debtbuyerrights.org/when-to-fight.html
 - Privacy Policy: https://debtbuyerrights.org/privacy.html
+- About debtbuyerrights.org: https://debtbuyerrights.org/about.html
+- Debt Buyer Rights in Alabama [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/alabama.html
+- Debt Buyer Rights in Alaska [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/alaska.html
+- Debt Buyer Rights in Arizona [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/arizona.html
+- Debt Buyer Rights in Arkansas [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/arkansas.html
+- Debt Buyer Rights in California [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/california.html
+- Debt Buyer Rights in Colorado [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/colorado.html
+- Debt Buyer Rights in Connecticut [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/connecticut.html
+- Debt Buyer Rights in Delaware [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/delaware.html
+- Debt Buyer Rights in District of Columbia [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/district-of-columbia.html
+- Debt Buyer Rights in Florida [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/florida.html
+- Debt Buyer Rights in Georgia [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/georgia.html
+- Debt Buyer Rights in Hawaii [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/hawaii.html
+- Debt Buyer Rights in Idaho [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/idaho.html
+- Debt Buyer Rights in Illinois [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/illinois.html
+- Debt Buyer Rights by State by State: https://debtbuyerrights.org/states/
+- Debt Buyer Rights in Indiana [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/indiana.html
+- Debt Buyer Rights in Iowa [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/iowa.html
+- Debt Buyer Rights in Kansas [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/kansas.html
+- Debt Buyer Rights in Kentucky [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/kentucky.html
+- Debt Buyer Rights in Louisiana [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/louisiana.html
+- Debt Buyer Rights in Maine [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/maine.html
+- Debt Buyer Rights in Maryland [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/maryland.html
+- Debt Buyer Rights in Massachusetts [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/massachusetts.html
+- Debt Buyer Rights in Michigan [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/michigan.html
+- Debt Buyer Rights in Minnesota [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/minnesota.html
+- Debt Buyer Rights in Mississippi [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/mississippi.html
+- Debt Buyer Rights in Missouri [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/missouri.html
+- Debt Buyer Rights in Montana [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/montana.html
+- Debt Buyer Rights in Nebraska [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/nebraska.html
+- Debt Buyer Rights in Nevada [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/nevada.html
+- Debt Buyer Rights in New Hampshire [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/new-hampshire.html
+- Debt Buyer Rights in New Jersey [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/new-jersey.html
+- Debt Buyer Rights in New Mexico [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/new-mexico.html
+- Debt Buyer Rights in New York [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/new-york.html
+- Debt Buyer Rights in North Carolina [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/north-carolina.html
+- Debt Buyer Rights in North Dakota [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/north-dakota.html
+- Debt Buyer Rights in Ohio [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/ohio.html
+- Debt Buyer Rights in Oklahoma [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/oklahoma.html
+- Debt Buyer Rights in Oregon [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/oregon.html
+- Debt Buyer Rights in Pennsylvania [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/pennsylvania.html
+- Debt Buyer Rights in Rhode Island [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/rhode-island.html
+- Debt Buyer Rights in South Carolina [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/south-carolina.html
+- Debt Buyer Rights in South Dakota [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/south-dakota.html
+- Debt Buyer Rights in Tennessee [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/tennessee.html
+- Debt Buyer Rights in Texas [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/texas.html
+- Debt Buyer Rights in Utah [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/utah.html
+- Debt Buyer Rights in Vermont [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/vermont.html
+- Debt Buyer Rights in Virginia [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/virginia.html
+- Debt Buyer Rights in Washington [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/washington.html
+- Debt Buyer Rights in West Virginia [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/west-virginia.html
+- Debt Buyer Rights in Wisconsin [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/wisconsin.html
+- Debt Buyer Rights in Wyoming [2026]: Licensing, Chain of Title, and Defenses: https://debtbuyerrights.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
